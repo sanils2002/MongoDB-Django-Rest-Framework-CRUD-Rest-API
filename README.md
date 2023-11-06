@@ -6,7 +6,7 @@ user can perform operations using Postman API.
 ## Installation
 
 ```
-pip install djangorestframework_simplejwt
+pip install djangorestframework
 pip install djongo
 pip install django-cors-headers
 ```
